@@ -1,1 +1,0 @@
-run conda create --name .venv --file requirements.txt
